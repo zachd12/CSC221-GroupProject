@@ -8,4 +8,4 @@ __Project Description:__ Web Scraping project to gather data from the North Caro
                          
 __Webscraped URL:__ Median Income [URL: https://en.wikipedia.org/wiki/List_of_North_Carolina_locations_by_per_capita_income]
 
-__Collaborator:__ Jonathan Alvarado (jealvarado@my.waketech.edu)
+__Collaborator:__ Working Solo
